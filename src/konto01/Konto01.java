@@ -3,6 +3,8 @@ package konto01;
 import java.io.*;
 
 public class Konto01 {
+    
+    
 
     final static int maxKonto; //Konstante maxPers
     static int nrKonto;
@@ -21,7 +23,8 @@ public class Konto01 {
         BufferedReader br = new BufferedReader(isr);
         
        
-        
+        System.out.println("Hallo");
+        System.out.println("hallo");
         int choice;
         
         while (true)
